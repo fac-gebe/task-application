@@ -54,10 +54,7 @@ export default function LoginScreen() {
                 {/* Header Section */}
                 <View className="mb-10">
                     <Text className="text-4xl font-extrabold text-gray-900 tracking-tight">
-                        Welcome
-                    </Text>
-                    <Text className="text-gray-500 text-base mt-2">
-                        Please sign in to continue
+                        Welcome Back!
                     </Text>
                 </View>
 
